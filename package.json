@@ -1,0 +1,22 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoguisuru/es6-pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomoguisuru/es6-pong/issues"
+  },
+  "homepage": "https://github.com/tomoguisuru/es6-pong#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
